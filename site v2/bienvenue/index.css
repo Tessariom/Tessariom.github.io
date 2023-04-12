@@ -1,0 +1,82 @@
+body {
+    background-size: 50%;
+    background-repeat: no-repeat;
+
+ 
+background-position: center;
+background-color: black;
+
+
+}
+
+#bienvenue
+{
+   color: white;
+text-align: center;
+font-family: monospace, lucida console; 
+   border-style: double;
+   border-color:#3664E9;
+
+  
+}
+
+#constru
+{
+   color: red;
+   text-align: center;
+   text-decoration: underline;
+
+ }
+
+
+
+#bug
+{
+   color: blue;
+   text-align: center;
+}
+#test 
+{
+   color: limegreen;
+}
+
+
+a {
+   color: yellow;
+   
+}
+
+hover {
+   background-color: white;
+   text-decoration: underline;
+}
+
+body, html {
+   height:100%;
+}
+
+div.bloc_principale {
+  height:100%
+} 
+
+
+#mail
+{
+   color: yellow;
+   text-decoration: underline;
+
+}
+
+
+
+
+  .footer {
+    position: fixed;
+ left: 0;
+ bottom: 0;
+ width: 100%;
+ background-image: none;
+ color: white;
+ text-align: center;
+
+  } 
